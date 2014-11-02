@@ -44,3 +44,6 @@ Creating additional database is just as easy:
 ```
 vagrant=# create database test;
 ```
+#### Todo
+* Login with Facebook / session management through Express
+* npm install with Express, Grunt, and React
