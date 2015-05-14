@@ -47,3 +47,7 @@ vagrant=# create database test;
 #### Todo
 * Login with Facebook / session management through Express
 * npm install with Express, Grunt, and React
+* mocha test environment with helpers
+* istanbul test coverage
+* travis ci integration
+* heroku cd integration
